@@ -3,7 +3,7 @@
 - 🎓 Je suis diplômé d'une BTS sio option Slam<br/>
 - 📝 Je suis à la recherche d'une alternance dès à présent(2 semaines école/3 semaines entreprises)<br/>
 - 💻 Je cherche à travailler dans le domaine du dévelopemment web/Data/IA<br/>
-- 📲  J'ai pour objectif de créer au moins projet par semaine sur mon Github (quel qu'en qoit la taille) pour rester motivé<br/>
+- 📲  J'ai pour objectif de créer au moins projet par semaine sur mon Github (quel qu'en soit la taille) pour rester motivé<br/>
 
 
 ## 🌐 Socials:
